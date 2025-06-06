@@ -1,4 +1,4 @@
-# EIFBENCH: An Advanced Benchmark for Assessing Complex Instruction Following in Large Language Models
+# EIFBENCH: Extremely Complex Instruction Following Benchmark for Large Language Models
 
 ## Evaluation Procedure
 
